@@ -1,0 +1,41 @@
+/************TAG SELECTORS**********/
+
+body {
+  background-color: #f8e659;
+}
+hr {
+  background-color: #f8e659;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: green;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1{
+    color: #1c5c24;
+}
+
+h3{
+    color: #1a472d;
+}
+
+img:hover{
+    background-color: greenyellow;
+}
+
+/************CLASS SELECTORS**********/
+
+
+/* .vaibhav{
+    background-color: red;
+}
+
+.circular{
+    border-top: dotted;
+} */
+
+/************ID SELECTORS**********/
+/*#heading{
+    background-color: aqua;
+}*/
